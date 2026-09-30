@@ -1,17 +1,6 @@
 #!/bin/bash
-# Do not use this in production. Sample code for testing only.
 
-# Author: IBM / Community
-# Additional Authors:
-# <your-name>
-
-# Input:
-# p, principal amount
-# t, time period in years
-# r, annual rate of interest
-
-# Output:
-# simple interest = p*t*r
+# Author: lotfe eissah albarbari
 
 echo "Enter the principal:"
 read p
