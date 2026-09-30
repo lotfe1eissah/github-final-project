@@ -6,3 +6,4 @@ A Simple Interest Calculator written in Bash script that computes simple interes
 # Git_IBM_project
 ---
 >>>>>>> 706408346df0cfd604c872723f427940e5fec19a
+# Fix typo
